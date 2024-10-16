@@ -1,1 +1,3 @@
-server.crt
+-----BEGIN CERTIFICATE-----
+(Your certificate would go here)
+-----END CERTIFICATE-----
